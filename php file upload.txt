@@ -1,0 +1,5 @@
+http://www.learningaboutelectronics.com/Articles/How-to-insert-files-into-a-MySQL-database-using-PHP.php
+
+
+
+http://www.learningaboutelectronics.com/How-to-create-own-file-transfer-protocol-using-PHP.php

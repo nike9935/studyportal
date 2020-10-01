@@ -1,0 +1,65 @@
+ a.adi
+  {
+    margin-right: 20px; 
+    margin-bottom: 20px;
+    height: 150px;
+    width: 200px;
+
+  }
+a.adi:link, a.adi:visited {
+  background-color:   #f39c12   ;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.adi:hover, a.adi:active {
+  background-color: #f8c471;
+}
+
+input[type=submit] {
+  width: 10%;
+  background-color: #f39c12;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #f8c471;
+}
+
+
+select {
+  width: 15%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+
+
+a.downadi:link, a.downadi:visited {
+  width: 50%;
+  background-color: #f39c12;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a.downadi:hover, a.downadi:active {
+  background-color: #f8c471;
+}

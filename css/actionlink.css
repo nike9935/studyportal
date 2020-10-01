@@ -1,0 +1,21 @@
+
+
+a.actadi
+  {
+    margin-right: 20px; 
+    margin-bottom: 20px;
+    width: auto;
+
+  }
+a.actadi:link, a.actadi:visited {
+  background-color:   #f39c12   ;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.actadi:hover, a.actadi:active {
+  background-color: #f8c471;
+}
