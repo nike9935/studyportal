@@ -9,4 +9,4 @@ Students will also be able to access the latest problem sets, previous year ques
 
 # Features
 
-Explore some feature...
+Some of its features include, an admin panel, which is used by the administrator to add/remove/verify users from its database. The admin can also see the list of all the files, all the users and their info, on the database. The admin will be able to change the password of the users and many other responsibilities.
